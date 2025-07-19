@@ -1,4 +1,4 @@
-## olá eu sou a Sandy Machado 👋
+## Olá eu sou a Sandy Machado 👋
 
 Me chamo Sandy Gomes, sou formada em Gestão da Tecnologia da Informação e estou em busca da minha primeira oportunidade profissional na área de TI.  
 Tenho grande interesse na área empresarial de tecnologia, especialmente em soluções que otimizam processos e apoiam a tomada de decisões nas organizações.
