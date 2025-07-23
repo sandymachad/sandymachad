@@ -12,11 +12,7 @@ Atualmente, estou aprofundando meus conhecimentos em Java, HTML, CSS e também e
 - 🤍 Pronomes: ela/dela
 - 🎯 Sou apaixonada por aprender, resolver problemas e conectar tecnologia com negócios
 
-<div>
-<a href="https://beacons.ai/Sandymachad">
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Sandymachad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandymachad&layout=compact&langs_count=168theme=dark"/> 
-</div>
+
   
 ### 🛠️ Tecnologias que estou aprendendo:
 
