@@ -6,10 +6,9 @@ Tenho grande interesse na área empresarial de tecnologia, especialmente em solu
 Atualmente, estou aprofundando meus conhecimentos em JS, HTML, CSS Estou sempre buscando aprender mais e desenvolver habilidades técnicas que me conectem ao mercado de tecnologia.
 
 
-- 📚 Atualmente estudando: Java • HTML • CSS • Power BI • Lógica de Programação
+- 📚 Atualmente estudando: JS • HTML • CSS • Lógica de Programação
 - 🤝 Quero colaborar em: Projetos voltados para áreas empresariais de TI, automação de processos e iniciativas acadêmicas
 - 📫 Como falar comigo: sandygomesmacha@gmail.com
-- 🤍 Pronomes: ela/dela
 - 🎯 Sou apaixonada por aprender, resolver problemas e conectar tecnologia com negócios
 
 <div>
