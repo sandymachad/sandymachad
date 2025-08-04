@@ -3,7 +3,7 @@
 Me chamo Sandy Gomes, sou formada em Gestão da Tecnologia da Informação e estou em busca da minha primeira oportunidade profissional na área de TI.  
 Tenho grande interesse na área empresarial de tecnologia, especialmente em soluções que otimizam processos e apoiam a tomada de decisões nas organizações.
 
-Atualmente, estou aprofundando meus conhecimentos em Java, HTML, CSS e também explorando ferramentas de análise de dados, como o Power BI. Estou sempre buscando aprender mais e desenvolver habilidades técnicas que me conectem ao mercado de tecnologia.
+Atualmente, estou aprofundando meus conhecimentos em JS, HTML, CSS Estou sempre buscando aprender mais e desenvolver habilidades técnicas que me conectem ao mercado de tecnologia.
 
 
 - 📚 Atualmente estudando: Java • HTML • CSS • Power BI • Lógica de Programação
